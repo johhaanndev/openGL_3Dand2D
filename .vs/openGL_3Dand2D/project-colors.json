@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d42e2aa5-3a2c-45cd-92b4-e59e7a907966": {
+      "ProjectGuid": "d42e2aa5-3a2c-45cd-92b4-e59e7a907966",
+      "DisplayName": "openGL_3Dand2D",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
